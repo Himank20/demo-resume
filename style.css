@@ -1,0 +1,161 @@
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+p {
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+h1 {
+    margin: 200px 0 0 0;
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+
+}
+
+h2,h3 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+hr {
+    border: dotted gray 6px;
+    border-bottom: none;
+    width: 5%;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    color: #222831;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #30475e;
+}
+
+.top-container {
+    background-color: #ffe5b9;
+    position: relative;
+    padding-top: 100px;
+    height: 650px;
+}
+
+.mid-container {
+    margin-top: 50px;
+}
+
+.bottom-container {
+    background-color: #f05454;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.game-img {
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+
+.camera-img {
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+
+.code-img {
+    position: absolute;
+    right: 100px;
+    top: 30px;
+}
+
+.comic-img {
+    position: absolute;
+    right: 400px;
+    top: 500px;
+}
+
+.skill-row {
+    width: 25%;
+    margin: 50px auto 100px;
+    text-align: left;
+}
+
+.java-img {
+    float: right;
+}
+
+.sql-img {
+    float: left;
+    margin-right: 10px;
+}
+
+.html-img {
+    float: right;
+}
+
+.vcs-img {
+    float: left;
+    margin-right: 10px;
+}
+
+.hobby {
+    margin-bottom: 50px;
+}
+
+.hob-game {
+    width: 25%;
+    display: inline-block;
+}
+
+.hob-comic {
+    width: 25%;
+    display: inline-block;
+}
+
+.hob-photo {
+    width: 25%;
+    display: inline-block;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #006eb8;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #0097f5;
+    text-decoration: none;
+  }
+
+  .footer-copy {
+      color: white;
+  }
+
+  .skill-heading {
+      font-size: 45px;
+      color: #f05454;
+      font-weight: bold;
+  }
+
+  .hobby-heading {
+      font-size: 45px;
+      color: #f05454;
+      font-weight: bold;
+  }
+
+  .contact-btn {
+      margin: 40px;
+  }
+
